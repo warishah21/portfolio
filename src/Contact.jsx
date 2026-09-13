@@ -17,15 +17,15 @@ export const Contact = () => {
 
   return (
     <div id="contact" className="contactsec">
-      <h4 className="section-title">Contact</h4>
+      <h4>Contact</h4>
 
       <div className="contact-grid">
         <div className="contact-info">
           <p className="contact-text">Have a project in mind, or just want to say hi? My inbox is open.</p>
           <div className="contact-links">
             <a href="mailto:wari18shah@gmail.com">wari18shah@gmail.com</a>
-            <a href="https://github.com/yourhandle" target="_blank" rel="noreferrer">GitHub</a>
-            <a href="https://linkedin.com/in/yourhandle" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a href="https://github.com/warishah21" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://linkedin.com/in/waishah-murtaza-19302329a" target="_blank" rel="noreferrer">LinkedIn</a>
           </div>
         </div>
 
